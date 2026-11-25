@@ -1,0 +1,26 @@
+# Core
+python-dotenv>=1.0.1
+pydantic>=2.7
+httpx>=0.27
+tenacity>=8.3
+rich>=13.7
+
+# LLM clients (OpenAI-compatible covers NIM, OpenRouter, Ollama, llama.cpp servers)
+openai>=1.40
+
+# Scraping / parsing
+beautifulsoup4>=4.12
+lxml>=5.2
+selectolax>=0.3.21
+feedparser>=6.0
+trafilatura>=1.10
+
+# Storage
+chromadb>=0.5.5
+numpy>=1.26
+
+# RAG / reranking (cross-encoder optional, falls back to LLM-rerank)
+rank-bm25>=0.2.2
+
+# UI
+streamlit>=1.36

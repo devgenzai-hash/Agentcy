@@ -1,0 +1,88 @@
+{
+  "news_global": [
+    "https://www.reuters.com",
+    "https://apnews.com",
+    "https://www.bbc.com/news",
+    "https://www.aljazeera.com",
+    "https://www.theguardian.com/international",
+    "https://www.nytimes.com",
+    "https://www.washingtonpost.com",
+    "https://www.wsj.com",
+    "https://www.ft.com",
+    "https://www.economist.com",
+    "https://www.bloomberg.com",
+    "https://www.cnbc.com",
+    "https://www.cnn.com",
+    "https://www.npr.org",
+    "https://www.france24.com/en",
+    "https://www.dw.com/en",
+    "https://www.scmp.com",
+    "https://www.japantimes.co.jp"
+  ],
+  "news_india": [
+    "https://www.thehindu.com",
+    "https://indianexpress.com",
+    "https://www.hindustantimes.com",
+    "https://www.ndtv.com",
+    "https://www.livemint.com",
+    "https://economictimes.indiatimes.com",
+    "https://www.business-standard.com",
+    "https://www.thequint.com",
+    "https://thewire.in",
+    "https://scroll.in"
+  ],
+  "tech_news": [
+    "https://techcrunch.com",
+    "https://www.theverge.com",
+    "https://arstechnica.com",
+    "https://www.wired.com",
+    "https://www.engadget.com",
+    "https://www.zdnet.com",
+    "https://www.technologyreview.com",
+    "https://news.ycombinator.com",
+    "https://www.producthunt.com"
+  ],
+  "marketing_creative": [
+    "https://www.adweek.com",
+    "https://www.marketingweek.com",
+    "https://www.thedrum.com",
+    "https://www.campaignlive.com",
+    "https://www.adage.com",
+    "https://blog.hubspot.com/marketing",
+    "https://contentmarketinginstitute.com",
+    "https://neilpatel.com/blog",
+    "https://buffer.com/resources",
+    "https://later.com/blog",
+    "https://blog.hootsuite.com"
+  ],
+  "social_trends": [
+    "https://trends.google.com/trends/trendingsearches/daily/rss?geo=US",
+    "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IN",
+    "https://www.youtube.com/feed/trending",
+    "https://twitter.com/explore/tabs/trending",
+    "https://www.reddit.com/r/popular/.rss",
+    "https://www.reddit.com/r/all/.rss",
+    "https://explodingtopics.com"
+  ],
+  "video_short_form": [
+    "https://www.tiktok.com/discover",
+    "https://www.youtube.com/feed/trending?bp=4gIcGhpyc3JlYW1pbmctY29udGVudC1zaG9ydHM%3D",
+    "https://www.instagram.com/explore"
+  ],
+  "ai_research": [
+    "https://arxiv.org/list/cs.AI/recent",
+    "https://arxiv.org/list/cs.CL/recent",
+    "https://huggingface.co/papers",
+    "https://paperswithcode.com",
+    "https://openai.com/blog",
+    "https://www.anthropic.com/news",
+    "https://blog.google/technology/ai",
+    "https://ai.meta.com/blog"
+  ],
+  "design_inspiration": [
+    "https://dribbble.com",
+    "https://www.behance.net",
+    "https://www.awwwards.com",
+    "https://www.designspiration.com"
+  ]
+}
